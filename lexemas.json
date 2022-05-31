@@ -1,0 +1,1396 @@
+[
+    {
+        "datos": "CUERPOACUOSO",
+        "tipo": "Palabra reservada de la estructura principal",
+        "codigo":"1"
+    },
+    {
+        "datos": "temperatura",
+        "tipo": "Palabra reservada de la estructura principal",
+        "codigo":"1"
+    },
+    {
+        "datos": "grasas",
+        "tipo": "Palabra reservada de la estructura principal",
+        "codigo":"1"
+    },
+    {
+        "datos": "huevosHelmintos",
+        "tipo": "Palabra reservada de la estructura principal",
+        "codigo":"1"
+    },
+    {
+        "datos": "fecales",
+        "tipo": "Palabra reservada de la estructura principal",
+        "codigo":"1"
+    },
+    {
+        "datos": "PH",
+        "tipo": "Palabra reservada de la estructura principal",
+        "codigo":"1"
+    },
+    {
+        "datos": "UT",
+        "tipo": "Palabra reservada de la estructura principal",
+        "codigo":"1"
+    },
+    {
+        "datos": "ARROLLO",
+        "tipo": "Palabra reservada (Atributo del cuerpo de agua y fecales)",
+        "codigo":"2"
+    },
+    {
+        "datos": "RIO",
+        "tipo": "Palabra reservada (Atributo del cuerpo de agua y fecales)",
+        "codigo":"2"
+    },
+    {
+        "datos": "CANAL",
+        "tipo": "Palabra reservada (Atributo del cuerpo de agua y fecales)",
+        "codigo":"2"
+    },
+    {
+        "datos": "SST",
+        "tipo": "Palabra reservada (Atributo de las grasas válidas)",
+        "codigo":"3"
+    },
+    {
+        "datos": "DO",
+        "tipo": "Palabra reservada (Atributo de las grasas válidas)",
+        "codigo":"3"
+    },
+    {
+        "datos": "CO",
+        "tipo": "Palabra reservada (Atributo de las grasas válidas)",
+        "codigo":"3"
+    },
+    {
+        "datos": "F",
+        "tipo": "Palabra reservada (Atributo de las grasas válidas)",
+        "codigo":"3"
+    },
+    {
+        "datos": "N",
+        "tipo": "Palabra reservada (Atributo de las grasas válidas)",
+        "codigo":"3"
+    },
+    {
+        "datos": "NA (No aplica)",
+        "tipo": "Palabra reservada (huevos de helmintos)",
+        "codigo":"4"
+    },
+    {
+        "datos": "AP (Aplica)",
+        "tipo": "Palabra reservada (huevos de helmintos)",
+        "codigo":"4"
+    },
+    {
+        "datos": "2",
+        "tipo": "Numero rango UT",
+        "codigo":"5"
+    },
+    {
+        "datos": "3",
+        "tipo": "Numero rango UT",
+        "codigo":"5"
+    },
+    {
+        "datos": "4",
+        "tipo": "Numero rango UT",
+        "codigo":"5"
+    },
+    {
+        "datos": "5",
+        "tipo": "Numero rango UT",
+        "codigo":"5"
+    },
+    {
+        "datos": "6",
+        "tipo": "Numero rango PH",
+        "codigo":"6"
+    },
+    {
+        "datos": "7",
+        "tipo": "Numero rango PH",
+        "codigo":"6"
+    },
+    {
+        "datos": "8",
+        "tipo": "Numero rango PH",
+        "codigo":"6"
+    },
+    {
+        "datos": "9",
+        "tipo": "Numero rango PH",
+        "codigo":"6"
+    },
+    {
+        "datos": "24",
+        "tipo": "Numero rango temperatura",
+        "codigo":"7"
+    },
+    {
+        "datos": "25",
+        "tipo": "Numero rango temperatura",
+        "codigo":"7"
+    },
+    {
+        "datos": "26",
+        "tipo": "Numero rango temperatura",
+        "codigo":"7"
+    },
+    {
+        "datos": "27",
+        "tipo": "Numero rango temperatura",
+        "codigo":"7"
+    },
+    {
+        "datos": "28",
+        "tipo": "Numero rango temperatura",
+        "codigo":"7"
+    },
+    {
+        "datos": "29",
+        "tipo": "Numero rango temperatura",
+        "codigo":"7"
+    },
+    {
+        "datos": "30",
+        "tipo": "Numero rango temperatura",
+        "codigo":"7"
+    },
+    {
+        "datos": "31",
+        "tipo": "Numero rango temperatura",
+        "codigo":"7"
+    },
+    {
+        "datos": "32",
+        "tipo": "Numero rango temperatura",
+        "codigo":"7"
+    },
+    {
+        "datos": "33",
+        "tipo": "Numero rango temperatura",
+        "codigo":"7"
+    },
+    {
+        "datos": "34",
+        "tipo": "Numero rango temperatura",
+        "codigo":"7"
+    },
+    {
+        "datos": "100",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "101",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "102",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "103",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "104",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "105",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "106",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "107",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "108",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "109",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "110",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "111",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "112",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "113",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "114",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "115",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "116",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "117",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "118",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "119",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "120",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "121",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "122",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "123",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "124",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "125",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "126",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "127",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "128",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "129",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "130",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "131",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "132",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "133",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "133",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "134",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "135",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "136",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "137",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "138",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "139",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "140",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "141",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "142",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "143",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "144",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "145",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "146",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "147",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "148",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "149",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "150",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "151",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "152",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "153",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "154",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "155",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "156",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },{
+        "datos": "157",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "158",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "159",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "160",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "161",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "162",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "163",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "164",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "165",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "166",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "167",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "168",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "169",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "170",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "171",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "172",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "173",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "174",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "175",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "176",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "177",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "178",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "179",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "180",
+        "tipo": "Numero rango grasas",
+        "codigo":"8"
+    },
+    {
+        "datos": "200",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "201",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "202",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "203",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "204",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "205",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "206",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "207",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "208",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "209",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "210",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "211",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "212",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "213",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },{
+        "datos": "214",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "215",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "216",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "217",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "218",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "219",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "220",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "221",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "222",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "223",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "224",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "225",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "226",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "227",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "228",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "229",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "230",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "231",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "232",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "233",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "234",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "235",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "236",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "237",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "238",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "240",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "241",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "242",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "243",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "244",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "245",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "246",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "247",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "248",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "249",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "250",
+        "tipo": "Rangos fecales(rio)",
+        "codigo":"9"
+    },
+    {
+        "datos": "340",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "341",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "342",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "343",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "344",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "345",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "346",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "347",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "348",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "349",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "350",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "351",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "352",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "353",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "354",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "355",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "356",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "357",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "358",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "359",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "360",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "361",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "362",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "363",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "364",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "365",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "366",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "367",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "368",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "369",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "370",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "371",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "372",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "373",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "374",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "375",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "376",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "377",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "378",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "379",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "380",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "381",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "382",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "383",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "384",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "385",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "386",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "387",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "388",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "389",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "390",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "391",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "392",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "393",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "394",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "394",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "395",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "396",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "397",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "398",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "399",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "400",
+        "tipo": "Rangos fecales(arrollo)",
+        "codigo":"10"
+    },
+    {
+        "datos": "460",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "461",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "462",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "463",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "464",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "465",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "466",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "467",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "468",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "469",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "470",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "471",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "472",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "473",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "474",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "475",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "476",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "477",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "478",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "479",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "480",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "481",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "482",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "483",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "484",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "485",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "486",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "487",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "488",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "489",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "490",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "491",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "492",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "493",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "494",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "495",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "496",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "497",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "498",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "499",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": "500",
+        "tipo": "Rangos fecales(canal)",
+        "codigo":"11" 
+    },
+    {
+        "datos": ":",
+        "tipo": "Delimitador",
+        "codigo":"12" 
+    },
+    {
+        "datos": ";",
+        "tipo": "Delimitador",
+        "codigo":"12" 
+    },
+    {
+        "datos": "(",
+        "tipo": "Contenedor de atributos",
+        "codigo":"13" 
+    },
+    {
+        "datos": ")",
+        "tipo": "Contenedor de atributos",
+        "codigo":"13" 
+    },
+    {
+        "datos": "<",
+        "tipo": "Contenedor de atributos",
+        "codigo":"13" 
+    },
+    {
+        "datos": ">",
+        "tipo": "Contenedor de atributos",
+        "codigo":"13" 
+    },
+    {
+        "datos": "{",
+        "tipo": "Limitador de clase",
+        "codigo":"14" 
+    },
+    {
+        "datos": "}",
+        "tipo": "Limitador de clase",
+        "codigo":"14" 
+    }
+           
+]
